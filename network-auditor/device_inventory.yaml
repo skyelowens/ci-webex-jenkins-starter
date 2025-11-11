@@ -1,0 +1,13 @@
+devices:
+  - hostname: "device-01"
+    ip: "192.168.56.101"
+    username: "audituser"
+    password: "AuditPass123"
+    description: "Network Device 1"
+
+  - hostname: "device-02"
+    ip: "192.168.56.102"
+    username: "audituser"
+    password: "AuditPass123"
+    description: "Network Device 2"
+
