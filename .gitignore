@@ -1,5 +1,26 @@
+<<<<<<< HEAD
 .venv/
 __pycache__/
 .pytest_cache/
 *.pyc
 .DS_Store
+=======
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors/OS
+*.swp
+.DS_Store
+.idea/
+.vscode/
+
+# Don’t track snaps, caches, or local app data
+snap/
+*.log
+
+# Jenkins local artifacts
+.jenkins*
+>>>>>>> 0a06da347926d392404c22a6705d09e93790b92a
